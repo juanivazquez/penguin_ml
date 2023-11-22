@@ -6,4 +6,4 @@
 cd Documents\3_My_Jupiter_Notebooks\0_github\penguin_ml
 
 3. run piprecs: 
-pipreqs .\
+pipreqs .\ --force
