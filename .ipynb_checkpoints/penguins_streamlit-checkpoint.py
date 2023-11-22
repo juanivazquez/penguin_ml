@@ -142,7 +142,7 @@ st.write(
  prediction are ranked by relative 
  importance below."""
 )
-st.image("feature_importance.png")
+# st.image("feature_importance.png")
 st.write(
  """Below are the histograms for each
 continuous variable separated by penguin species.
